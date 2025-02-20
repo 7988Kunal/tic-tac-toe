@@ -8,9 +8,10 @@ body{
 }
 h1{
   position: relative;
+  margin-bottom:60px;
   top:100px;
   margin-top:20px;
-  color: #23efef;
+  color:#23efef;
 }
 .container{
   height: 70vh;
@@ -41,6 +42,7 @@ h1{
 }
 #btn{
   color: #fff;
+  margin-top:40px;
   background-color: #fff;
   height:50px;
   width:150px;
